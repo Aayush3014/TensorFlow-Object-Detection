@@ -7,6 +7,6 @@ import uuid
 # Import Operating System to use os utilities for more accessibility over system
 import os
 
-# Import time to use sleep() method for taking break in between taking pictures.
+# Import time to use sleep() method for taking break in between taking pictures of objects.
 import time
 
